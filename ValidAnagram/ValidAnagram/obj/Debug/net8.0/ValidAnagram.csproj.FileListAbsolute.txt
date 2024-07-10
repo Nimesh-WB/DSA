@@ -1,0 +1,14 @@
+D:\DSA_Problems\ValidAnagram\ValidAnagram\bin\Debug\net8.0\ValidAnagram.exe
+D:\DSA_Problems\ValidAnagram\ValidAnagram\bin\Debug\net8.0\ValidAnagram.deps.json
+D:\DSA_Problems\ValidAnagram\ValidAnagram\bin\Debug\net8.0\ValidAnagram.runtimeconfig.json
+D:\DSA_Problems\ValidAnagram\ValidAnagram\bin\Debug\net8.0\ValidAnagram.dll
+D:\DSA_Problems\ValidAnagram\ValidAnagram\bin\Debug\net8.0\ValidAnagram.pdb
+D:\DSA_Problems\ValidAnagram\ValidAnagram\obj\Debug\net8.0\ValidAnagram.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSA_Problems\ValidAnagram\ValidAnagram\obj\Debug\net8.0\ValidAnagram.AssemblyInfoInputs.cache
+D:\DSA_Problems\ValidAnagram\ValidAnagram\obj\Debug\net8.0\ValidAnagram.AssemblyInfo.cs
+D:\DSA_Problems\ValidAnagram\ValidAnagram\obj\Debug\net8.0\ValidAnagram.csproj.CoreCompileInputs.cache
+D:\DSA_Problems\ValidAnagram\ValidAnagram\obj\Debug\net8.0\ValidAnagram.dll
+D:\DSA_Problems\ValidAnagram\ValidAnagram\obj\Debug\net8.0\refint\ValidAnagram.dll
+D:\DSA_Problems\ValidAnagram\ValidAnagram\obj\Debug\net8.0\ValidAnagram.pdb
+D:\DSA_Problems\ValidAnagram\ValidAnagram\obj\Debug\net8.0\ValidAnagram.genruntimeconfig.cache
+D:\DSA_Problems\ValidAnagram\ValidAnagram\obj\Debug\net8.0\ref\ValidAnagram.dll
